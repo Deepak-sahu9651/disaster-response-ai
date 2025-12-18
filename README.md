@@ -1,16 +1,16 @@
-# 🌪️ Disaster Response AI System
+#  Disaster Response AI System
 
-> **Team Name:** Sync Shield 🛡️  
+> **Team Name:** Sync Shield 
 > **Theme:** Disaster Management | AI for Social Good | Smart Cities
 
 An AI-powered disaster response system designed to assist authorities and rescue teams during natural disasters such as floods and earthquakes by providing real-time insights, risk prediction, and optimized rescue operations.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
-Natural disasters cause massive loss of life and infrastructure mainly due to delayed response and lack of accurate real-time information.  
-The **Disaster Response AI System** solves this problem by combining **satellite imagery, weather data, and social media signals** to generate actionable intelligence for faster and safer disaster response.
+Natural disasters cause massive loss of life and infrastructure, mainly due to delayed response and a lack of accurate, real-time information.  
+The **Disaster Response AI System** addresses this issue by integrating **satellite imagery, weather data, and social media signals** to produce actionable intelligence for expedited and safer disaster response.
 
 ---
 
@@ -33,7 +33,7 @@ The **Disaster Response AI System** solves this problem by combining **satellite
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Satellite images are processed using AI models to detect water bodies and damage.
 2. Weather APIs provide real-time and forecast data.
@@ -43,7 +43,7 @@ The **Disaster Response AI System** solves this problem by combining **satellite
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend & AI
 - Python
@@ -68,7 +68,7 @@ The **Disaster Response AI System** solves this problem by combining **satellite
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Disaster management authorities
 - Rescue and emergency response teams
@@ -77,7 +77,7 @@ The **Disaster Response AI System** solves this problem by combining **satellite
 
 ---
 
-## 🌍 Impact
+##  Impact
 
 - Faster disaster response
 - Improved rescue team coordination
@@ -86,9 +86,9 @@ The **Disaster Response AI System** solves this problem by combining **satellite
 
 ---
 
-## 🚧 Project Status
+##  Project Status
 
-🛠️ **Currently under development (Hackathon Phase)**  
+ **Currently under development**  
 Upcoming enhancements:
 - Real-time satellite data integration
 - Advanced damage classification
@@ -97,16 +97,9 @@ Upcoming enhancements:
 
 ---
 
-## 👥 Team Sync Shield
+##  Team Sync Shield
 
 A passionate team focused on building secure, intelligent, and impactful solutions using AI and technology to protect lives during critical situations.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-⭐ If you find this project meaningful, give it a star and support **Team Sync Shield**!
